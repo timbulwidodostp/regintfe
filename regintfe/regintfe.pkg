@@ -1,4 +1,4 @@
-d 'regintfe': Estimates (Estimate) a linear regression model with one interacted high dimensional fixed effect Use regintfe With STATA 18
+d ' regintfe ': Linear Regression with Interacted High Dimensional Fixed Effect Use regintfe With STATA 18
 d
 f regintfe.ado
 f regintfe.hlp
