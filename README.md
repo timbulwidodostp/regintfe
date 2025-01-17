@@ -3,6 +3,8 @@ Estimates (Estimate) a linear regression model with one interacted high dimensio
 
 Linear Regression with Interacted High-Dimensional Fixed Effect Use regintfe With STATA 18
 
+https://www.youtube.com/watch?v=cqpdJU-18-o
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
